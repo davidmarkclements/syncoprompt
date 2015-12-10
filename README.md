@@ -20,7 +20,7 @@ console.log('How do ya do', name, 'your password is', pwd)
 
 ## Options
 
-`hidden`: Default is `false`. This prevents echo-back during text entry (e.g. for )
+`hidden`: Default is `false`. This prevents echo-back during text entry
 
 `echo`: Default is `'*'`. Echo character to be used when hidden. For no echo set this to `''`
 
